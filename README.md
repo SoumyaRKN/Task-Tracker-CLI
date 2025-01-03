@@ -4,6 +4,7 @@ Task Tracker is a simple command-line interface (CLI) tool for managing tasks ef
 
 ## Project URL
 
+[Project URL](https://roadmap.sh/projects/task-tracker)
 [GitHub Repository](https://github.com/SoumyaRKN/Task-Tracker-CLI)
 
 ---
